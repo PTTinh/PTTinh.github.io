@@ -1,8 +1,17 @@
-<?php include "_header.php" ?>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <title>WedCuaToi</title>
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
 <!-- PHP-Login -->
 
 <!-- Main -->
-    <div class="wrapper">
+<div class="wrapper">
         <nav class="nav">
             <div class="nav-Logo">
                 <p>LOGO .</p>
@@ -126,4 +135,6 @@
     }
 </script>
 
-<?php include "_folder.php" ?>
+<body>
+</body>
+</html>
